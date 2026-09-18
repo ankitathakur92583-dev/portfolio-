@@ -539,7 +539,7 @@ footer{
      font-weight: bold;
      color: white;
    }
-   @media(min-width:1024px){
+   @media(min-width:769px){
      
      body{align-items:center;}
      .hero{
